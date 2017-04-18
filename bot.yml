@@ -1,6 +1,6 @@
-name: In or Out
+name: Vacabot, a bot that tracks your team's vacation schedule.
 description:
-email: hello@beepboophq.com
+email: hello@vacabot.com
 avatar: .beepboop/inorout-icon.png
 background: .beepboop/inorout-bg.png
 screenshots:
